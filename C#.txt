@@ -1,0 +1,9 @@
+Certainly! Here's a beginner-friendly video tutorial series on C# programming language:
+
+"C# Tutorial for Beginners" by Programming with Mosh - This tutorial series covers the basics of C# programming language, including data types, variables, control statements, classes, objects, and more. It also includes practical examples and exercises to help you practice what you've learned.
+Link: https://www.youtube.com/watch?v=pSiIHe2uZ2w&list=PLpSmZmoBaViBKX9F2c9fOfoe53cw0-WtA
+
+"C# Fundamentals for Absolute Beginners" by Microsoft Visual Studio - This video series is designed for beginners with no prior programming experience. It covers the fundamentals of C# programming language, including syntax, data types, operators, and more.
+Link: https://www.youtube.com/watch?v=VTmBbgAPxi0&list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6
+
+I hope you find these resources helpful. Good luck with your C# programming journey!
